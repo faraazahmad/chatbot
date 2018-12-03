@@ -1,5 +1,5 @@
 # chatbot
-The chatbot built for hack-jmi
+The chatbot built for Telegram during HACK-JMI hackathon
 
 ## to run the app
 clone the repo and cd into it. Then install all dependencies
