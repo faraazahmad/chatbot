@@ -1,5 +1,5 @@
-# chatbot
-The chatbot built for Telegram during HACK-JMI hackathon
+# Nearby
+A telegram bot that uses Google API to show nearby schools, restaurants, etc. It was made as part of HackJMI hackathon conducted by [HashesJMI](github.com/hashes-jmi)
 
 ## to run the app
 clone the repo and cd into it. Then install all dependencies
